@@ -1,0 +1,11 @@
+import Feladatok
+#Feladatok.masodikFeladat()
+#Feladatok.harmadikFeladat()
+#Feladatok.negyedikFeladat()
+#Feladatok.otodikFeladat()
+#Feladatok.hatodikFeladat()
+#Feladatok.hetedikFeladat()
+#Feladatok.nyolcadikFeladat()
+#Feladatok.kilencedikFeladat()
+Feladatok.tizedikFeladat()
+#Feladatok.tizenegyedikFeladat()
